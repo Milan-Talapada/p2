@@ -44,4 +44,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ vars.DOCKER_USERNAME }}/node-sample-app:latest
+          tags: milan14/asd/node-sample-app:1.0
