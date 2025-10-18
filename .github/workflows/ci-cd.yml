@@ -44,4 +44,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: milan14/asd/node-sample-app:1.0
+          tags: milan14/asd:1.0
